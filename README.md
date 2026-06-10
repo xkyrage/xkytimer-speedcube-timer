@@ -12,15 +12,18 @@ xkytimer is a lightweight, browser-based speedcubing timer. It is designed to be
 * **Zero Dependencies:** Built entirely with vanilla HTML, CSS, and JavaScript. No frameworks or external libraries required.
 
 ## Preview
-In Action
+prototype In Action
 <img width="2553" height="1293" alt="image" src="https://github.com/user-attachments/assets/56811ba5-e088-4719-b86c-340adade15c7" />
 Export Session
 <img width="1446" height="773" alt="image" src="https://github.com/user-attachments/assets/e993d92c-93e7-4c6e-8ee2-a0ede2d68d20" />
 Export Format
 <img width="1529" height="1022" alt="image" src="https://github.com/user-attachments/assets/0837bd39-7c48-4e30-a69a-de4f6b1a4217" />
 
+## Preview Latest Version
+
 ### Latest Version
 - with WCA inspection Mode Toggle
+- with scramble draw for 3x3x3
 - Add Puzzle selection for scramble logic, for now its only for 2x2x2, 3x3x3 and pyraminx
 - Stop Action Mode Option, now user can choose to stop the timer with space button, mouseclick or wiht any button
 - Add session average, Current Ao5, Current Ao12 and Best Time within the session
@@ -31,8 +34,9 @@ Export Format
 - Add Time gap within solve history
 - Add DISTRACTION FREE MODE when time is running
   
-  <img width="2556" height="1281" alt="image" src="https://github.com/user-attachments/assets/7219bb31-a507-4c40-afc6-568fbc6534a5" />
-  <img width="2558" height="1259" alt="image" src="https://github.com/user-attachments/assets/d3f63906-eda3-463b-9f06-ff90e1a58d10" />
+<img width="2557" height="1291" alt="image" src="https://github.com/user-attachments/assets/2f908837-ee00-4709-befa-a48219039528" />
+<img width="361" height="782" alt="image" src="https://github.com/user-attachments/assets/f3c11fd6-80cd-4ded-931d-b8b0a0a617c5" /><img width="354" height="782" alt="image" src="https://github.com/user-attachments/assets/9bba0a1b-c6bf-4f8e-9ffc-125f8be9f026" />
+
 
 
 
